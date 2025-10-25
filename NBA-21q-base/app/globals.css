@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --card: #0f172a;
+  --card-2: #111827;
+}
+
+html, body { height: 100%; }
+* { box-sizing: border-box; }
+
+/* scrollbar */
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #374151;
+  border-radius: 9999px;
+}

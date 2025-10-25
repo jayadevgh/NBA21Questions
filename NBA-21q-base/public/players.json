@@ -1,0 +1,198 @@
+[
+  {
+    "name": "LeBron James",
+    "teams": [
+      "Cleveland Cavaliers",
+      "Miami Heat",
+      "Los Angeles Lakers"
+    ],
+    "position": "Forward",
+    "height": 206,
+    "college": "None",
+    "mvp": true,
+    "championships": 4,
+    "active": true
+  },
+  {
+    "name": "Stephen Curry",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "position": "Guard",
+    "height": 188,
+    "college": "Davidson",
+    "mvp": true,
+    "championships": 4,
+    "active": true
+  },
+  {
+    "name": "Kobe Bryant",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "position": "Guard",
+    "height": 198,
+    "college": "None",
+    "mvp": true,
+    "championships": 5,
+    "active": false
+  },
+  {
+    "name": "Michael Jordan",
+    "teams": [
+      "Chicago Bulls",
+      "Washington Wizards"
+    ],
+    "position": "Guard",
+    "height": 198,
+    "college": "North Carolina",
+    "mvp": true,
+    "championships": 6,
+    "active": false
+  },
+  {
+    "name": "Shaquille O'Neal",
+    "teams": [
+      "Orlando Magic",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Phoenix Suns",
+      "Cleveland Cavaliers",
+      "Boston Celtics"
+    ],
+    "position": "Center",
+    "height": 216,
+    "college": "LSU",
+    "mvp": true,
+    "championships": 4,
+    "active": false
+  },
+  {
+    "name": "Magic Johnson",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "position": "Guard",
+    "height": 206,
+    "college": "Michigan State",
+    "mvp": true,
+    "championships": 5,
+    "active": false
+  },
+  {
+    "name": "Larry Bird",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "position": "Forward",
+    "height": 206,
+    "college": "Indiana State",
+    "mvp": true,
+    "championships": 3,
+    "active": false
+  },
+  {
+    "name": "Tim Duncan",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "position": "Forward-Center",
+    "height": 211,
+    "college": "Wake Forest",
+    "mvp": true,
+    "championships": 5,
+    "active": false
+  },
+  {
+    "name": "Kevin Durant",
+    "teams": [
+      "Seattle SuperSonics",
+      "Oklahoma City Thunder",
+      "Golden State Warriors",
+      "Brooklyn Nets",
+      "Phoenix Suns"
+    ],
+    "position": "Forward",
+    "height": 208,
+    "college": "Texas",
+    "mvp": true,
+    "championships": 2,
+    "active": true
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "position": "Forward",
+    "height": 213,
+    "college": "None",
+    "mvp": true,
+    "championships": 1,
+    "active": false
+  },
+  {
+    "name": "Dwyane Wade",
+    "teams": [
+      "Miami Heat",
+      "Chicago Bulls",
+      "Cleveland Cavaliers"
+    ],
+    "position": "Guard",
+    "height": 193,
+    "college": "Marquette",
+    "mvp": false,
+    "championships": 3,
+    "active": false
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "position": "Forward",
+    "height": 211,
+    "college": "None",
+    "mvp": true,
+    "championships": 1,
+    "active": true
+  },
+  {
+    "name": "Nikola Jokic",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "position": "Center",
+    "height": 211,
+    "college": "None",
+    "mvp": true,
+    "championships": 1,
+    "active": true
+  },
+  {
+    "name": "Kareem Abdul-Jabbar",
+    "teams": [
+      "Milwaukee Bucks",
+      "Los Angeles Lakers"
+    ],
+    "position": "Center",
+    "height": 218,
+    "college": "UCLA",
+    "mvp": true,
+    "championships": 6,
+    "active": false
+  },
+  {
+    "name": "Hakeem Olajuwon",
+    "teams": [
+      "Houston Rockets",
+      "Toronto Raptors"
+    ],
+    "position": "Center",
+    "height": 213,
+    "college": "Houston",
+    "mvp": true,
+    "championships": 2,
+    "active": false
+  }
+]
